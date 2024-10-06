@@ -1,6 +1,10 @@
 # launch-your-honeypot-and-insurance
 免责声明
-使用本网站（https://github.com/JasonBond-ADMIN/launch-your-honeypot-and-insurance；）即代表您已知晓并愿意承受加密货币市场的风险。加密货币市场具有高度的波动性，投资者有可能面临较大的资金损失。本网站提供的信息主要用于知识和经验分享，旨在作为测试网学习项目的一部分。
+使用本网站
+
+https://github.com/JasonBond-ADMIN/launch-your-honeypot-and-insurance
+
+即代表您已知晓并愿意承受加密货币市场的风险。加密货币市场具有高度的波动性，投资者有可能面临较大的资金损失。本网站提供的信息主要用于知识和经验分享，旨在作为测试网学习项目的一部分。
 
 请注意，本网站提供的任何内容均不构成投资建议或专业理财建议。在进行任何加密货币交易或投资决策之前，建议您寻求专业人士的指导，并进行充分的市场调查。
 
